@@ -1,0 +1,34 @@
+body {
+    background: url("woman-reacting.jpg");
+    color: #F5FD0C;
+}
+
+div.j {
+    background: darkgray;
+    color: #F5FD0C;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #F5FD0C;
+    background-color: #337ab7;
+}
+
+.text-muted {
+    color: #F5FD0C;
+}
+
+a {
+    color: #F5FD0C;
+    text-decoration: none;
+}
+
+td {
+    background: darkgray;
+    font-weight: bold;
+    
+    
+}
